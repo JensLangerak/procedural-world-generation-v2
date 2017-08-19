@@ -399,10 +399,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c2963507fe3d89c4f891cc66d1eccf32, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scale: 0.275
-  verticalScale: 1
+  scale: 0.07
+  verticalScale: 4.93
+  freq1: 0.05
+  verticalScale1: 20
+  freq2: 0.1
+  verticalScale2: 9
+  freq3: 0.3
+  verticalScale3: 3
+  freq4: 0.9
+  verticalScale4: 1
+  freqe: 0.03
+  verticalScalee: 1
+  power: 0.25
   xOffset: 698
   yOffset: -69
+  seed: 0
   renderer: {fileID: 1824474381}
   meshFilter: {fileID: 0}
 --- !u!1 &1832711291
